@@ -130,6 +130,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 6562321368377938946, guid: d9d9904ddef848b458cdab8eb5e66e2d, type: 3}
+      propertyPath: m_Alpha
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6562321368377938949, guid: d9d9904ddef848b458cdab8eb5e66e2d, type: 3}
       propertyPath: m_Color.a
       value: 1
@@ -571,7 +575,7 @@ Transform:
   m_GameObject: {fileID: 956763218}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 1263.7672, y: -279.907, z: 0}
-  m_LocalScale: {x: 20.420372, y: 20.51008, z: 1}
+  m_LocalScale: {x: 20.44, y: 20.44, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 1
