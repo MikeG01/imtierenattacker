@@ -21,6 +21,10 @@ public class BackSceneButton : MonoBehaviour
         SceneManager.LoadScene("AttackerDesktop2");
     }
 
+    public void BackToIndex(){
+        SceneManager.LoadScene("IndexScene");
+    }
+
     public void NoTransitionScene(){
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex-1);
     }

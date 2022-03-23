@@ -60,6 +60,39 @@ EditorBuildSettings:
     path: Assets/Scenes/Success-Email.unity
     guid: 4ddfac823ff599b46be597203f9d9f4f
   - enabled: 1
+    path: Assets/Scenes/SniffScene.unity
+    guid: 1984d5968b9d8fa40902d499f1499798
+  - enabled: 1
+    path: Assets/Scenes/SniffResult.unity
+    guid: 826746201d55ef2418ed50aca7be3891
+  - enabled: 1
+    path: Assets/Scenes/NewInfoScene.unity
+    guid: 9ebda0d638b2c1b4bb89243881c0cb78
+  - enabled: 1
+    path: Assets/Scenes/TargetedEmail.unity
+    guid: 5c81ecef6d8c3494eb85905aefe723fb
+  - enabled: 1
+    path: Assets/Scenes/ChooseVictim.unity
+    guid: f748bd071e3a41940bf6c63fc2d43779
+  - enabled: 1
+    path: Assets/Scenes/EmailSending.unity
+    guid: 2b46383e471689348b3370591a15562e
+  - enabled: 1
+    path: Assets/Scenes/AttackSuccess.unity
+    guid: 6e16f04eead0014468cf18322148947e
+  - enabled: 1
+    path: Assets/Scenes/DiscussionScene.unity
+    guid: 65851b10b560fab4689d816fce84aaab
+  - enabled: 1
+    path: Assets/Scenes/VoteScene.unity
+    guid: 0d8cc6dd9c7613b4692282a4dc715a71
+  - enabled: 1
+    path: Assets/Scenes/VoteResult.unity
+    guid: 7df635f16472f4449b4fafcaaf6d0c50
+  - enabled: 1
+    path: Assets/Scenes/EndingScene.unity
+    guid: 5c8d93211aac2534b9d304178a333433
+  - enabled: 0
     path: Assets/Scenes/SceneX1.unity
     guid: 5137ac8534bd7de4e9f396b210416c9c
   - enabled: 0
