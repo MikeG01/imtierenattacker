@@ -9,6 +9,22 @@ public class BackSceneButton : MonoBehaviour
     public Animator transition;
     public float transitionTime=1f;
 
+    void Start(){
+        
+    }
+
+    void Update(){
+       
+    }
+
+    public void BackDesktop(){
+        SceneManager.LoadScene("AttackerDesktop2");
+    }
+
+    public void NoTransitionScene(){
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex-1);
+    }
+
     public void LoadNextScene(){
         StartCoroutine(LoadLevel(SceneManager.GetActiveScene().buildIndex-1));
     }
