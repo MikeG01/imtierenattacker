@@ -158,8 +158,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 13, y: 37}
-  m_SizeDelta: {x: 465, y: 280}
+  m_AnchoredPosition: {x: 23, y: 52}
+  m_SizeDelta: {x: 740, y: 460}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &268014178
 MonoBehaviour:
@@ -512,6 +512,10 @@ PrefabInstance:
     - target: {fileID: 4204607901074971893, guid: bff2c024ac6fc1d4fa3cdf150b348921, type: 3}
       propertyPath: m_Name
       value: SceneControl2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5834251787535341239, guid: bff2c024ac6fc1d4fa3cdf150b348921, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -2454
       objectReference: {fileID: 0}
     - target: {fileID: 8430992624967320513, guid: bff2c024ac6fc1d4fa3cdf150b348921, type: 3}
       propertyPath: m_RootOrder

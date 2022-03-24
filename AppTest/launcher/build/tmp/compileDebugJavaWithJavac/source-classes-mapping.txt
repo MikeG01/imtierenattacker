@@ -1,0 +1,2 @@
+com/DefaultCompany/com/unity/template/mobile2D/BuildConfig.java
+ com.DefaultCompany.com.unity.template.mobile2D.BuildConfig

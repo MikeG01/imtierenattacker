@@ -274,13 +274,17 @@ PrefabInstance:
       propertyPath: m_Name
       value: SceneControl2
       objectReference: {fileID: 0}
+    - target: {fileID: 5834251787535341239, guid: bff2c024ac6fc1d4fa3cdf150b348921, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -2447
+      objectReference: {fileID: 0}
     - target: {fileID: 8430992624967320513, guid: bff2c024ac6fc1d4fa3cdf150b348921, type: 3}
       propertyPath: m_RootOrder
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8430992624967320513, guid: bff2c024ac6fc1d4fa3cdf150b348921, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -68
+      value: -293
       objectReference: {fileID: 0}
     - target: {fileID: 8430992624967320513, guid: bff2c024ac6fc1d4fa3cdf150b348921, type: 3}
       propertyPath: m_LocalPosition.y
@@ -453,8 +457,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -295, y: -139}
-  m_SizeDelta: {x: 70, y: 30}
+  m_AnchoredPosition: {x: -471, y: -220}
+  m_SizeDelta: {x: 110, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2126212228
 MonoBehaviour:

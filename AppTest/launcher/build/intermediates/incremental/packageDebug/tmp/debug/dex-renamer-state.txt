@@ -1,0 +1,4 @@
+#Thu Mar 24 20:57:06 SGT 2022
+base.0=C\:\\Users\\mikeg\\OneDrive\\Documents\\GitHub\\imtieren\\imtieren-attacker\\AppTest\\launcher\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
