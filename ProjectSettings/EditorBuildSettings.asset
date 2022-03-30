@@ -49,7 +49,10 @@ EditorBuildSettings:
     guid: 53bb34ea371516449af7158cbe3cd7af
   - enabled: 1
     path: Assets/Scenes/CreateEmail.unity
-    guid: 2b573b9d34a4bbc4bab56ba23ea2adca
+    guid: 36f2ae85935f1d947972bc1d96d4ca07
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/CreateEmail2.unity
     guid: e341bdb5a626bd94c948928438fafb9e
@@ -81,8 +84,8 @@ EditorBuildSettings:
     path: Assets/Scenes/AttackSuccess.unity
     guid: 6e16f04eead0014468cf18322148947e
   - enabled: 1
-    path: Assets/Scenes/DiscussionScene.unity
-    guid: 65851b10b560fab4689d816fce84aaab
+    path: Assets/Scenes/discussion.unity
+    guid: 819ce378f6e5ea6488d5768ddf527a21
   - enabled: 1
     path: Assets/Scenes/VoteScene.unity
     guid: 0d8cc6dd9c7613b4692282a4dc715a71
